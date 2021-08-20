@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Remark</key>
+		<string>操作</string>
+		<key>Length</key>
+		<integer>1</integer>
+		<key>Type</key>
+		<string>Int</string>
+	</dict>
+	<dict>
+		<key>Remark</key>
+		<string>编号</string>
+		<key>Length</key>
+		<integer>1</integer>
+		<key>Type</key>
+		<string>Int</string>
+	</dict>
+	<dict>
+		<key>Remark</key>
+		<string>操作</string>
+		<key>Length</key>
+		<integer>1</integer>
+		<key>Type</key>
+		<string>Dictionary</string>
+		<key>Content</key>
+		<array>
+			<dict>
+				<key>Remark</key>
+				<string>操作</string>
+				<key>Length</key>
+				<integer>1</integer>
+				<key>Type</key>
+				<string>Int</string>
+			</dict>
+			<dict>
+				<key>Remark</key>
+				<string>操作</string>
+				<key>Length</key>
+				<integer>1</integer>
+				<key>Type</key>
+				<string>Int</string>
+			</dict>
+			<dict>
+				<key>Remark</key>
+				<string>操作</string>
+				<key>Length</key>
+				<integer>1</integer>
+				<key>Type</key>
+				<string>Int</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
